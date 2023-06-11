@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Clones": {
+      "commandName": "Project",
+      "commandLineArgs": "18\r\nlearn 1 1\r\nlearn 1 2\r\nlearn 1 3\r\nrollback 1\r\nrollback 1\r\nclone 1\r\nclone 2\r\nrelearn 2\r\nrelearn 2\r\ncheck 1\r\ncheck 2\r\nrelearn 3\r\ncheck 3\r\nrollback 3\r\ncheck 3\r\nrelearn 3\r\nrelearn 3\r\ncheck 3"
+    }
+  }
+}
